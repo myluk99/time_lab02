@@ -1,6 +1,8 @@
 #include <iostream>
 usting namespace std;
-int main(){
-cout << "Hello world"; <<name;
+int
+main()
+{
+  cout << "Hello world";
+  << name;
 }
-
